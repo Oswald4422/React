@@ -1,6 +1,18 @@
-## Greeting Cards Application
+## Greeting Cards Application Overview
 
 Developed a React application called "Greeting Cards" using Vite for fast project scaffolding and Tailwind CSS for streamlined styling. This project focuses on creating reusable and functional components such as Header, GreetingCard, and App, promoting a modular approach to UI design. The application dynamically renders content using props, ensuring flexibility and reusability.
+
+## --Discussion
+This project is a  React application built using Vite and styled with Tailwind CSS. It allows users to:  
+- Display a welcoming header.  
+- Create and display multiple greeting cards with unique titles and messages.  
+
+I was able to know how to use 
+
+- Setting up a React project using Vite.  
+- Styling components using Tailwind CSS.  
+- Creating reusable functional components in React.  
+- Passing props to dynamically display content.
 
 ## Key Highlights:
 1. Learned to efficiently scaffold React projects using Vite, optimizing development speed.
